@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/smogg/python/Videos/video_infinito/Escena1-naturales/media/videos/main/480p15/partial_movie_files/Naturales/3342089908_3917936172_223132457.mp4'
+file 'file:/home/smogg/python/Videos/video_infinito/Escena1-naturales/media/videos/main/480p15/partial_movie_files/Naturales/1975050110_3796375365_1732912694.mp4'
+file 'file:/home/smogg/python/Videos/video_infinito/Escena1-naturales/media/videos/main/480p15/partial_movie_files/Naturales/1975050110_1491839775_3567285605.mp4'

@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/smogg/python/Videos/video_infinito/Escena_prueba/media/videos/main/480p15/partial_movie_files/Naturales/3774281917_4077210195_223132457.mp4'
+file 'file:/home/smogg/python/Videos/video_infinito/Escena_prueba/media/videos/main/480p15/partial_movie_files/Naturales/454894186_3173035229_3745139710.mp4'
+file 'file:/home/smogg/python/Videos/video_infinito/Escena_prueba/media/videos/main/480p15/partial_movie_files/Naturales/454894186_1132263062_3274102597.mp4'
+file 'file:/home/smogg/python/Videos/video_infinito/Escena_prueba/media/videos/main/480p15/partial_movie_files/Naturales/1840830942_2120938948_111521083.mp4'
+file 'file:/home/smogg/python/Videos/video_infinito/Escena_prueba/media/videos/main/480p15/partial_movie_files/Naturales/3432352033_1121617232_3951193884.mp4'
+file 'file:/home/smogg/python/Videos/video_infinito/Escena_prueba/media/videos/main/480p15/partial_movie_files/Naturales/4112552905_2120938948_2217358768.mp4'
+file 'file:/home/smogg/python/Videos/video_infinito/Escena_prueba/media/videos/main/480p15/partial_movie_files/Naturales/2694337554_1831374817_160437867.mp4'
+file 'file:/home/smogg/python/Videos/video_infinito/Escena_prueba/media/videos/main/480p15/partial_movie_files/Naturales/2694337554_2438509737_4197161444.mp4'
+file 'file:/home/smogg/python/Videos/video_infinito/Escena_prueba/media/videos/main/480p15/partial_movie_files/Naturales/1627637253_2120938948_2663920029.mp4'
+file 'file:/home/smogg/python/Videos/video_infinito/Escena_prueba/media/videos/main/480p15/partial_movie_files/Naturales/3432352033_4062948918_3431635549.mp4'
+file 'file:/home/smogg/python/Videos/video_infinito/Escena_prueba/media/videos/main/480p15/partial_movie_files/Naturales/3432352033_2272992019_3431635549.mp4'
