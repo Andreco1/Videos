@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/mou/Desktop/Personal/Videos-git/video_infinito/Escena1-naturales/media/videos/main/1080p60/partial_movie_files/Naturales/3696629272_3791898532_223132457.mp4'
+file 'file:/Users/mou/Desktop/Personal/Videos-git/video_infinito/Escena1-naturales/media/videos/main/1080p60/partial_movie_files/Naturales/2655041436_3435841736_2535608072.mp4'
+file 'file:/Users/mou/Desktop/Personal/Videos-git/video_infinito/Escena1-naturales/media/videos/main/1080p60/partial_movie_files/Naturales/4114305690_2714902452_2656846341.mp4'
+file 'file:/Users/mou/Desktop/Personal/Videos-git/video_infinito/Escena1-naturales/media/videos/main/1080p60/partial_movie_files/Naturales/140145560_2505453618_2656846341.mp4'
+file 'file:/Users/mou/Desktop/Personal/Videos-git/video_infinito/Escena1-naturales/media/videos/main/1080p60/partial_movie_files/Naturales/1493562418_2217175407_3760163582.mp4'
